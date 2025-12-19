@@ -1,26 +1,19 @@
-# Core data processing
 pandas>=2.0.0
 numpy>=1.24.0
 
-# Environment variables
 python-dotenv>=1.0.0
 
-# LangChain packages
 langchain-community>=0.2.0
 langchain-google-genai>=1.0.0
 langchain-text-splitters>=0.2.0
 langchain-chroma>=0.1.0
 
-# Vector database
 chromadb>=0.4.0
 
-# Gradio dashboard
 gradio>=4.0.0
 
-# Data visualization (for notebooks)
 matplotlib>=3.7.0
 seaborn>=0.12.0
 
-# Machine learning (for sentiment analysis notebook)
 transformers>=4.30.0
 torch>=2.0.0
